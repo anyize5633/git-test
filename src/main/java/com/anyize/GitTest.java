@@ -8,6 +8,9 @@ public class GitTest {
         System.out.println(" woshiniava");
         System.out.println("在GitHub上修改了一下代码");
         System.out.println("我修改了一下代码");
+        System.out.println("我又更新了");
+        System.out.println("1111111");
+        System.out.println("2222222");
         
     }
 }
